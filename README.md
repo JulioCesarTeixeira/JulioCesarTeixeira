@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-dias-teixeira-8085b38b/
+[1]: https://www.linkedin.com/in/julio-cesar-dias-teixeira/
 <br />
 
 ---
