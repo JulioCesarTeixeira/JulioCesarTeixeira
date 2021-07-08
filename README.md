@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![JulioCesarTeixeira GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulioCesarTeixeira&show_icons=true)
 
-- 🔭 I’m currently **looking for an internship** (starting in 08/21)
+- 🔭 I’m **starting an internship in 26/07**
 - 🌱 I’m currently a Junior Web Developer learner at BeCode.org
 
 ---
