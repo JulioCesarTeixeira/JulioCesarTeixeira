@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 ![JulioCesarTeixeira GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulioCesarTeixeira&show_icons=true)
 
-- 🔭 I’m **starting an internship in 26/07**
-- 🌱 I’m currently a Junior Web Developer learner at BeCode.org
-
+- 🔭 I’m **currently working as web developer at Aeco Legal Tech**
+- 🌱 Specializing in ReactJs, NextJs and Typescript
 ---
 
 #### You can find me on :
