@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![JulioCesarTeixeira GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulioCesarTeixeira&show_icons=true)
 
 - 🔭 I’m **currently working as web developer at Aeco Legal Tech**
-- 🌱 Specializing in ReactJs, NextJs and Typescript
+- 🌱 Specializing in Typescript, ReactJs, NextJs, React native and NodeJs
 ---
 
 #### You can find me on :
