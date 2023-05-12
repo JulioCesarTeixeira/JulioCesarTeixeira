@@ -35,6 +35,10 @@ Here are some ideas to get you started:
 [1]: https://www.linkedin.com/in/julio-cesar-dias-teixeira/
 <br />
 
+### My languages :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesarTeixeira&layout=compact)](https://github.com/JulioCesarTeixeira/github-readme-stats)
+
 ---
 
 #### Skills :
