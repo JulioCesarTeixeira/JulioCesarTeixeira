@@ -1,62 +1,48 @@
-### Hi, I'm Julio Cesar Teixeira 👋
+# Hello, I'm Julio Cesar! 👋
 
-<!--
-**JulioCesarTeixeira/JulioCesarTeixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/JulioCesarTeixeira.png" alt="Julio Cesar - Web developer" width="200" height="200">
 
-Here are some ideas to get you started:
+I'm a Web Developer with almost 2 years of experience, specializing in building exceptional, high-quality websites and applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![JulioCesarTeixeira GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulioCesarTeixeira&show_icons=true)
+## ⚡ Tech Stack
 
-- 🔭 I’m **currently working as web developer at Aeco Legal Tech**
-- 🌱 Specializing in Typescript, ReactJs, NextJs, React native and NodeJs
----
+Here are a few technologies I've been working with recently:
 
-#### You can find me on :
+* ReactJS
+* Typescript
+* NextJS
+* NodeJS
+* React Native
+* Firebase
 
-[<img align="left" alt="Julio Cesar Teixeira| LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][1]
-<a target="_blank" href="mailto:juliocesarteixeira1992@gmail.com">
-  <img align="left" alt="Gmail" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=0032489256265">
-  <img align="left" alt="Whatsapp" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
+## 👨‍💻 Work Experience
 
-<!-- Links to your social media accounts -->
+Primarily, I have been focusing on front-end development. But lately, I've been exploring more about mobile development and back-end technologies. I'm a quick learner and a technology enthusiast who loves to explore new technologies and leverage them to solve real-life problems ✌️.
 
-[1]: https://www.linkedin.com/in/julio-cesar-dias-teixeira/
-<br />
+## 👀 Career Objectives
 
-### My languages :
+As a dedicated web developer, my professional journey has been governed by a passion for technology and a commitment to delivering high-quality experiences. My tech stack, including ReactJS, Typescript, NextJS, NodeJS, and React Native, serves as a testament to this commitment. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesarTeixeira&layout=compact)](https://github.com/JulioCesarTeixeira/github-readme-stats)
+While I have a deep-seated interest in web development, I'm also intrigued by the expanding realm of mobile development. I'm constantly seeking to broaden my horizons and adopt a more versatile approach to solving problems.
 
----
+I'm open to opportunities that challenge me to leverage my existing skills while allowing me to acquire new ones. I thrive in dynamic, fast-paced environments and take pride in my ability to be a team player, contribute, innovate, and adapt to new circumstances. 
 
-#### Skills :
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="react" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="typescript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="nodejs" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="firebase" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="nextjs" width="50px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" />
-<img align="left" alt="mySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+If you are seeking a motivated, team-oriented professional who is both a web and an emerging mobile developer, let's get in touch!
 
 
-<br />
+## 📫 How to reach me
+
+You can find and get in touch with me on these platforms:
+
+* [LinkedIn](https://www.linkedin.com/in/julio-cesar-dias-teixeira/)
+* 📧 [Email me](mailto:juliocesarteixeira1992@gmail.com)
+* [WhatsApp](https://wa.me/0032489256265)
+
+## 📈 GitHub Stats
+
+![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioCesarTeixeira&show_icons=true&theme=radical)
+
+
+Please feel free to clone projects, raise issues, and submit PRs if you think something could be better.
+
+Happy coding! 😊
