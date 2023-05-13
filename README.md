@@ -36,7 +36,6 @@ You can find and get in touch with me on these platforms:
 
 * [LinkedIn](https://www.linkedin.com/in/julio-cesar-dias-teixeira/)
 * 📧 [Email me](mailto:juliocesarteixeira1992@gmail.com)
-* [WhatsApp](https://wa.me/0032489256265)
 
 ## 📈 GitHub Stats
 
