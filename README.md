@@ -1,4 +1,4 @@
-# Hello, I'm Julio Cesar! 👋
+# Hey there, I'm Julio Cesar! 👋
 
 <img src="https://github.com/JulioCesarTeixeira.png" alt="Julio Cesar - Web developer" width="200" height="200">
 
