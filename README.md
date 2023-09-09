@@ -2,13 +2,14 @@
 
 <img src="https://github.com/JulioCesarTeixeira.png" alt="Julio Cesar - Web developer" width="200" height="200">
 
-I'm a Web Developer with almost 2 years of experience, specializing in building exceptional, high-quality websites and applications.
+I'm a Web Developer with over 2 years of professional experience, specializing in building exceptional, high-quality websites and applications.
 
 ## ⚡ Tech Stack
 
 Here are a few technologies I've been working with recently:
 
 * ReactJS
+* VueJS
 * Typescript
 * NextJS
 * NodeJS
