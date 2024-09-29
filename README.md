@@ -8,13 +8,12 @@ I'm a Web Developer with over 2 years of professional experience, specializing i
 
 Here are a few technologies I've been working with recently:
 
+* Flutter
+* Android
 * ReactJS
-* VueJS
 * Typescript
 * NextJS
 * NodeJS
-* React Native
-* Firebase
 
 ## 👨‍💻 Work Experience
 
